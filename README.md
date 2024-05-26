@@ -10,3 +10,9 @@
 
 This project is your gateway to experiencing the power of generative AI. Clone the repository, run the app, and explore the exciting possibilities of AI-powered chat, image captioning, and code generation!
 
+## Requirements
+google-generativeai==0.3.2
+streamlit==1.30.0
+python-dotenv==1.0.1
+streamlit-option-menu==0.3.12
+pillow==10.2.0
