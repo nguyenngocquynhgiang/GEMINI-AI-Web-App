@@ -1,11 +1,12 @@
 ## Chat With Gemi: Get Creative with Google Generative AI (Streamlit App)
 
-**Chat With Gemi** is a web application built with Streamlit that unlocks the potential of Google's Generative AI models. It offers a user-friendly interface for:
+**Chat With Gemi** is a web application built with Streamlit that unlocks the power of Google's Generative AI models. It offers a fun and interactive way to explore these cutting-edge technologies:
 
-* **Engaging Conversation:** Interact with a conversational AI powered by Gemini-Pro, providing a chatbot experience through text prompts.
-* **Image Captioning Magic:** Upload images and use descriptive prompts to generate captions with Gemini-Pro-Vision.
-* **Code Generation (Beta):** Experiment with Gemini-Pro-Code (under development) to generate Python code snippets based on your textual descriptions. 
+* **Chat Like a Friend:** Have engaging conversations with a virtual companion powered by Gemini-Pro! Ask questions, tell stories, or just chat – Gemini-Pro responds to your text prompts, providing a chatbot experience that's both informative and entertaining.
 
-This project provides a glimpse into the capabilities of generative AI and its potential applications.  
+* **Image Captioning Made Easy:** Want to add captions to your photos but struggling to find the right words? Upload your images and use descriptive prompts. With the help of Gemini-Pro-Vision, Chat With Gemi will magically generate captions that capture the essence of your pictures.
 
-**Get started easily!** Clone the repository and run the app to explore the world of AI-powered chat, image captioning, and code generation!
+* **Code Like a Pro (Beta):** Feeling stuck on a coding task? Don't worry, Chat With Gemi has you covered! Experiment with the (beta) capabilities of Gemini-Pro-Code.  Provide textual descriptions of the desired code functionality, and Gemini-Pro-Code will attempt to generate Python code snippets to help you get started or overcome challenges.
+
+This project is your gateway to experiencing the power of generative AI. Clone the repository, run the app, and explore the exciting possibilities of AI-powered chat, image captioning, and code generation!
+
