@@ -1,4 +1,5 @@
 ## Chat With Gemi: Get Creative with Google Generative AI (Streamlit App)
+![Uploading image.png…]()
 
 **Chat With Gemi** is a web application built with Streamlit that unlocks the power of Google's Generative AI models. It offers a fun and interactive way to explore these cutting-edge technologies:
 
